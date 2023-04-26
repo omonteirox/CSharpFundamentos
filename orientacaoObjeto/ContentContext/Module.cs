@@ -1,5 +1,7 @@
 
 
+using orientacaoObjeto.SharedContext;
+
 namespace orientacaoObjeto.ContentContext
 {
     public class Module : Base
