@@ -1,0 +1,15 @@
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\bin\Debug\net6.0\trabalhandoComMoedas.exe
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\bin\Debug\net6.0\trabalhandoComMoedas.deps.json
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\bin\Debug\net6.0\trabalhandoComMoedas.runtimeconfig.json
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\bin\Debug\net6.0\trabalhandoComMoedas.dll
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\bin\Debug\net6.0\trabalhandoComMoedas.pdb
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\trabalhandoComMoedas.csproj.AssemblyReference.cache
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\trabalhandoComMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\trabalhandoComMoedas.AssemblyInfoInputs.cache
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\trabalhandoComMoedas.AssemblyInfo.cs
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\trabalhandoComMoedas.csproj.CoreCompileInputs.cache
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\trabalhandoComMoedas.dll
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\refint\trabalhandoComMoedas.dll
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\trabalhandoComMoedas.pdb
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\trabalhandoComMoedas.genruntimeconfig.cache
+C:\Users\omonteirox\cSharp\trabalhandoComMoedas\obj\Debug\net6.0\ref\trabalhandoComMoedas.dll

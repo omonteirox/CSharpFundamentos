@@ -1,0 +1,15 @@
+C:\Users\omonteirox\cSharp\textEditor\bin\Debug\net6.0\textEditor.exe
+C:\Users\omonteirox\cSharp\textEditor\bin\Debug\net6.0\textEditor.deps.json
+C:\Users\omonteirox\cSharp\textEditor\bin\Debug\net6.0\textEditor.runtimeconfig.json
+C:\Users\omonteirox\cSharp\textEditor\bin\Debug\net6.0\textEditor.dll
+C:\Users\omonteirox\cSharp\textEditor\bin\Debug\net6.0\textEditor.pdb
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\textEditor.csproj.AssemblyReference.cache
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\textEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\textEditor.AssemblyInfoInputs.cache
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\textEditor.AssemblyInfo.cs
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\textEditor.csproj.CoreCompileInputs.cache
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\textEditor.dll
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\refint\textEditor.dll
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\textEditor.pdb
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\textEditor.genruntimeconfig.cache
+C:\Users\omonteirox\cSharp\textEditor\obj\Debug\net6.0\ref\textEditor.dll

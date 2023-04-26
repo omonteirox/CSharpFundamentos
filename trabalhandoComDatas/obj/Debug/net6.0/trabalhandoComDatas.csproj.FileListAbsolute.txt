@@ -1,0 +1,15 @@
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\bin\Debug\net6.0\trabalhandoComDatas.exe
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\bin\Debug\net6.0\trabalhandoComDatas.deps.json
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\bin\Debug\net6.0\trabalhandoComDatas.runtimeconfig.json
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\bin\Debug\net6.0\trabalhandoComDatas.dll
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\bin\Debug\net6.0\trabalhandoComDatas.pdb
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\trabalhandoComDatas.csproj.AssemblyReference.cache
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\trabalhandoComDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\trabalhandoComDatas.AssemblyInfoInputs.cache
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\trabalhandoComDatas.AssemblyInfo.cs
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\trabalhandoComDatas.csproj.CoreCompileInputs.cache
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\trabalhandoComDatas.dll
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\refint\trabalhandoComDatas.dll
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\trabalhandoComDatas.pdb
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\trabalhandoComDatas.genruntimeconfig.cache
+C:\Users\omonteirox\cSharp\trabalhandoComDatas\obj\Debug\net6.0\ref\trabalhandoComDatas.dll
