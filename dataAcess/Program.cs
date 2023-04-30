@@ -85,39 +85,6 @@ namespace dataAcess
             category.Featured = true;
             category.Summary = "Sumário";
             category.Order = 9;
-            var insertSql = @"INSERT INTO Category VALUES(@Id,@Title,@url,@summary,@order,@description,@featured)";
-            var rows = connectionString.Execute(insertSql, new[]{
-              new{
-                category.Id,
-                category.Title,
-                category.Url,
-                category.Summary,
-                category.Order,
-                category.Description,
-                category.Featured
-              },
-              new {
-                category2.Id,
-                category2.Title,
-                category2.Url,
-                category2.Summary,
-                category2.Order,
-                category2.Description,
-                category2.Featured
-              }
-            });
-            System.Console.WriteLine($"{rows} linhas inseridas");
-
-        }
-        static void DeleteCategory(SqlConnection connectionString, Guid id)
-        {
-            var deleteCategory = "DELETE Category WHERE Id = @id";
-            var rows = connectionString.Execute(deleteCategory, new { id = id });
-            Console.WriteLine($"{rows} foram modificadas com êxito");
-        }
-        static void ExecuteScalar(SqlConnection connectionString)
-        {
 
         }
     }
-}
