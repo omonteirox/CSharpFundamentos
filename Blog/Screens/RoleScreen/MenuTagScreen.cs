@@ -3,22 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Blog.Screens.TagScreens
+namespace Blog.Screens.RoleScreen
 {
-    public class MenuTagScreen
+    public class MenuRoleScreen
     {
         public static void Load()
         {
             Console.Clear();
-            Console.WriteLine("Gestão de tags");
+            Console.WriteLine("Gestão de perfils");
             Console.WriteLine("--------------");
             Console.WriteLine("O que deseja fazer?");
             Console.WriteLine();
-            Console.WriteLine("1 - Listar tags");
-            Console.WriteLine("2 - Listar tag específica");
-            Console.WriteLine("3 - Cadastrar tags");
-            Console.WriteLine("4 - Atualizar tag");
-            Console.WriteLine("5 - Excluir tag");
+            Console.WriteLine("1 - Listar perfils");
+            Console.WriteLine("2 - Listar perfil específico");
+            Console.WriteLine("3 - Cadastrar novo perfil");
+            Console.WriteLine("4 - Atualizar perfil");
+            Console.WriteLine("5 - Excluir perfil");
             Console.WriteLine();
             Console.WriteLine();
             var option = short.Parse(Console.ReadLine());
@@ -26,19 +26,19 @@ namespace Blog.Screens.TagScreens
             switch (option)
             {
                 case 1:
-                    ListTagsScreen.Load();
+                    ListRolesScreen.Load();
                     break;
                 case 2:
-                    ListTagScreen.Load();
+                    ListRoleScreen.Load();
                     break;
                 case 3:
-                    CreateCategoryScreen.Load();
+                    CreateRoleScreen.Load();
                     break;
                 case 4:
-                    UpdateTagScreen.Load();
+                    UpdateRoleScreen.Load();
                     break;
                 case 5:
-                    DeleteTagScreen.Load();
+                    DeleteRoleScreen.Load();
                     break;
                 default: Load(); break;
             }

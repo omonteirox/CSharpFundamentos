@@ -1,6 +1,10 @@
 
 using Blog.Models;
 using Blog.Screens.CategoryScreen;
+using Blog.Screens.ProfileUserScreen;
+using Blog.Screens.ReportsScreen;
+using Blog.Screens.RoleScreen;
+using Blog.Screens.TagPostScreen;
 using Blog.Screens.TagScreens;
 using Blog.Screens.UserScreens;
 using Microsoft.Data.SqlClient;
@@ -37,11 +41,23 @@ namespace Blog
                 case 1:
                     MenuUserScreen.Load();
                     break;
+                case 2:
+                    MenuRoleScreen.Load();
+                    break;
                 case 3:
                     MenuCategoryScreen.Load();
                     break;
                 case 4:
                     MenuTagScreen.Load();
+                    break;
+                case 5:
+                    MenuProfileUserScreen.Load();
+                    break;
+                case 6:
+                    MenuPostTagScreen.Load();
+                    break;
+                case 7:
+                    MenuReportScreen.Load();
                     break;
                 default: Load(); break;
             }
