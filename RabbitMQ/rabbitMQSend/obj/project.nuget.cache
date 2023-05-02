@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3iWCbwil9ggDRSVNGCuBSfXj+2TyvhRhlHNVuQ0xye56k+ACwrao5x/kjohvDYvxECc9clguXt2xj+EyDGy+7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omonteirox\\cSharp\\RabbitMQ\\rabbitMQSend\\rabbitMQSend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omonteirox\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\omonteirox\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\omonteirox\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\omonteirox\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\omonteirox\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
