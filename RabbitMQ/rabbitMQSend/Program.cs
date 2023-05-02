@@ -16,9 +16,8 @@ namespace rabbitMQSend
                 logger.Error($"Informe ao menos 2 parâmetros  \n O segundo deve ser a Fila/Queue que vai receber as mensagens \n O Terceiro deve ser as mensagens que serão enviadas");
                 return;
             }
-
             string nameQueue = args[0];
-            logger.Information($"Queue: {nameQueue}");
+            logger.Information($"Nome da Fila-> : {nameQueue}");
             try
             {
                 var factory = new ConnectionFactory() { Uri = new Uri("amqp://guest:guest@localhost:5672") };
@@ -38,10 +37,10 @@ namespace rabbitMQSend
                     logger.Information($"Mensagem enviada: {args[i]}");
                 }
                 logger.Information("Fim do envio das mensagens");
-                System.Console.WriteLine("Aperte enter para sair");
+                Console.WriteLine("Aperte enter para sair");
                 Console.ReadLine();
             }
-            catch (System.Exception ex)
+            catch (Exception ex)
             {
 
                 logger.Error($"Erro ao criar conexão com o RabbitMQ: {ex.Message}");

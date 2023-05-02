@@ -13,8 +13,8 @@
             Console.WriteLine("0 - Sair");
             Console.WriteLine("1 - Abrir arquivo");
             Console.WriteLine("2 - Criar novo Arquivo");
+            //INT BIGINT SHORT, USHORT
             ushort option = ushort.Parse(Console.ReadLine());
-
             switch (option)
             {
                 case 0: Environment.Exit(0); break;

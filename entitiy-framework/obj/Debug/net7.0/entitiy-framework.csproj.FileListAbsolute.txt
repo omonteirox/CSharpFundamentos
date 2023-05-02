@@ -1,0 +1,5 @@
+C:\Users\omonteirox\cSharp\entitiy-framework\obj\Debug\net7.0\entitiy-framework.csproj.AssemblyReference.cache
+C:\Users\omonteirox\cSharp\entitiy-framework\obj\Debug\net7.0\entitiy-framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omonteirox\cSharp\entitiy-framework\obj\Debug\net7.0\entitiy-framework.AssemblyInfoInputs.cache
+C:\Users\omonteirox\cSharp\entitiy-framework\obj\Debug\net7.0\entitiy-framework.AssemblyInfo.cs
+C:\Users\omonteirox\cSharp\entitiy-framework\obj\Debug\net7.0\entitiy-framework.csproj.CoreCompileInputs.cache
