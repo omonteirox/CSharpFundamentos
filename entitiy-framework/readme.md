@@ -34,3 +34,21 @@
  - **Define o Banco de dados em memória**
  - É composto por subconjuntos de dados
   - Chamado de **DbSet**
+## Mapeamento
+   - É o de - para
+   - Diz qual classe no C# se refere a qual tabela no banco de dados
+   - Diz quais propriedades da classe se referem a quais colunas no banco de dados
+   - Informa o tipo de dados
+   - **Permite gerar o banco automaticamente**
+### Data Annotations
+   - **Fluent Mapping**
+      - Mapeamento Fluente
+      - Feito em uma classe externa
+      - Não "polui" a classe principal
+      - Não cria dependências para o projeto/classe principal
+   - **Data Annotations**
+      - Feito diretamente nas classes
+      - Mais simples e direto
+      - Dependem do System.ComponentModel.DataAnnotations
+      - Alguns dependem do Microsoft.EntityFrameworkCore
+      - Gera os "METADADOS"
