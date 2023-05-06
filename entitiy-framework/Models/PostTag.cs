@@ -9,5 +9,6 @@ namespace entitiy_framework.Models
     {
         public int PostId { get; set; }
         public int TagId { get; set; }
+        public IList<User> Users { get; set; }
     }
 }
